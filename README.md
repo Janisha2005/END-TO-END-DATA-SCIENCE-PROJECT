@@ -56,3 +56,5 @@ Deploy the app .
 **streamlit :** Used to build and share interactive web apps for data visualization, machine learning, and data science projects. 
 
 **sklearn:** Used for train_test_split and LabelEncoder
+
+https://github.com/Janisha2005/END-TO-END-DATA-SCIENCE-PROJECT/issues/1#issue-2775659845
