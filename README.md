@@ -57,4 +57,9 @@ Deploy the app .
 
 **sklearn:** Used for train_test_split and LabelEncoder
 
-https://github.com/Janisha2005/END-TO-END-DATA-SCIENCE-PROJECT/issues/1#issue-2775659845
+## Output of the project
+![Screenshot (8)](https://github.com/user-attachments/assets/7787b791-981c-48fa-8fe1-7d8a67421f4a)
+![Screenshot (9)](https://github.com/user-attachments/assets/2c6dd3e4-c563-4cd8-a757-c675067d2b9c)
+![Screenshot (10)](https://github.com/user-attachments/assets/b3552b3e-2d93-4f03-bcda-d4d77ad51806)
+![Screenshot (11)](https://github.com/user-attachments/assets/5ed3dadb-a172-4e9a-acd5-828630eca645)
+
